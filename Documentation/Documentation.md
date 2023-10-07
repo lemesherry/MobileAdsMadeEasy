@@ -13,7 +13,7 @@
   unity scene, so that the script can initialize all the Ads when game loads up. "_Note: you can add this script only by clicking on add component and typing AdsManager on any gameObject_" <br>
   or Create A new script and paste these functions in them to initialize ads before showing them.
 ```csharp
-      /// Note: You can set all Ads ID in the window menu inside Assets/Sherry Ads Package/settings/>
+      /// Note: You can set all Ads ID in the window menu inside Assets/MobileAdsMadeEasy/settings/>
       
       private bool _isAdLoaded;
       
@@ -128,4 +128,4 @@
 
 <br>
 <br>
-Note: You can set all Ads ID in the window menu inside Assets/Sherry Ads Package/settings.
+Note: You can set all Ads ID in the window menu inside Assets/MobileAdsMadeEasy/settings.
