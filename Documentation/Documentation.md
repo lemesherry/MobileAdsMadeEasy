@@ -3,7 +3,7 @@
 ### Prerequisites: <br>
 
 > **1.** Install latest versions of Google AdMob unity package (or at-least version 8.x.x), you can find all versions here: [Google Mobile Ads](https://github.com/googleads/googleads-mobile-unity/releases). <br>
-> **2.** Install the Google Native ads unity package from here: [Google Native Ads Guide](https://developers.google.com/admob/unity/native) or directly from here: [Google Native ads unity package](https://dl.google.com/googleadmobadssdk/GoogleMobileAds-native.unitypackage). <br>
+> **2.** Install the Google Native ads unity package from here: [Google Native Ads Guide](https://developers.google.com/admob/unity/native). <br>
 > **3.** Try to resolve dependencies by going to the External dependency manager settings. In your unity project click on _Assets/External Dependency Manager/Android Resolver/Resolve_ (external dependency manager is always automatically installed with google mobile ads package). <br>
 > **4.** Add your google ads app ID in google ads package by going to menu _Assets/Google Mobile Ads/Settings_. <br>
 
